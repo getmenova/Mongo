@@ -5,3 +5,5 @@
   "powers": ["Fire", "Love"], 
   "damage": {"magic": 4, "melee": 2}
 })
+
+
